@@ -36,7 +36,7 @@ Skilled in:
 - **Software Development Methodologies:** Agile, Waterfall
 - **Collaboration:** GitHub, GitHub Action, Jira, Confluence
 
-<a href="http://www.github.com/Hunterx234"><img src="https://github-readme-stats.vercel.app/api?username=Hunterx234&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_title=false" /></a>
+<a href="http://www.github.com/Hunterx234"><img src="https://github-readme-stats.vercel.app/api?username=Hunterx234&show_icons=true&count_private=true&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hunterx234&stroke=000000&background=ffffff&ring=10b981&fire=10b981&currStreakNum=000000&currStreakLabel=10b981&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></p>
 
