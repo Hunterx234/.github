@@ -25,16 +25,16 @@ Experienced Java Developer
 
 Skilled in:
 
-- **Programming Languages:** Java 8, 17
-- **Frameworks and Libraries:** Spring Boot 3, Junit 5, Mockito, Spring Integration
+- **Programming Languages:** Java & Python
+- **Frameworks and Libraries:** Spring Boot 3, Junit 5, Mockito, Spring Integration, Microservices, Spring Security
 - **Message Brokers:** Apache Kafka, JMS
-- **Front End Technologies:** HTML5, CSS3
-- **Databases: Relational-** MySQL, Oracle; **NoSQL-** MongoDB
-- **Development Tools:** DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman
+- **Front End Technologies:** HTML5, CSS3, JavaScript
+- **Databases: Relational-** MySQL, Oracle, PgAdmin; **NoSQL-** MongoDB
+- **Development Tools:** DBeaver, PuTTY, VSCode, IntellijIDEA, Eclipse, Git, Maven, Docker, Postman, Insomnia
 - **Operating Systems:** Windows
 - **Web Services and Cloud:** REST, Microservice Architecture with Spring Cloud, AWS Basic Proficient knowledge
 - **Software Development Methodologies:** Agile, Waterfall
-- **Collaboration:** GitHub, Jira, Confluence
+- **Collaboration:** GitHub, GitHub Action, Jira, Confluence
 
 <a href="http://www.github.com/shashi9387"><img src="https://github-readme-stats.vercel.app/api?username=shashi9387&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=000000&icon_color=10b981&bg_color=ffffff&hide_border=true&show_icons=true" alt="Shashi's GitHub stats" /></a>
 
