@@ -38,9 +38,9 @@ Skilled in:
 
 ---
 
-## 🏢 About Hunterx234 Organization
+## 🏢 About LaearnAITools Organization
 
-Welcome to **Hunterx234** - A collaborative space for innovative projects and development initiatives.
+Welcome to **LaearnAITools** - A collaborative space for innovative projects and development initiatives.
 
 ### 📊 Organization Overview
 
@@ -59,7 +59,7 @@ Welcome to **Hunterx234** - A collaborative space for innovative projects and de
 
 ### 📈 Key Projects
 
-Visit our [organization repositories](https://github.com/Hunterx234?tab=repositories) to explore our projects and contributions.
+Visit our [organization repositories](https://github.com/LaearnAITools?tab=repositories) to explore our projects and contributions.
 
 ### 🤝 Get Involved
 
