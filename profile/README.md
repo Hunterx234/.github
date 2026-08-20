@@ -38,9 +38,9 @@ Skilled in:
 
 ---
 
-## 🏢 About LaearnAITools Organization
+## 🏢 About LearnAITools Organization
 
-Welcome to **LaearnAITools** - A collaborative space for innovative projects and development initiatives.
+Welcome to **learnAITools** - A collaborative space for innovative projects and development initiatives.
 
 ### 📊 Organization Overview
 
@@ -59,7 +59,7 @@ Welcome to **LaearnAITools** - A collaborative space for innovative projects and
 
 ### 📈 Key Projects
 
-Visit our [organization repositories](https://github.com/LaearnAITools?tab=repositories) to explore our projects and contributions.
+Visit our [organization repositories](https://github.com/learnAITools?tab=repositories) to explore our projects and contributions.
 
 ### 🤝 Get Involved
 
